@@ -1,1 +1,3 @@
-package aula-10-03;
+public class ex_arrays {
+
+}
